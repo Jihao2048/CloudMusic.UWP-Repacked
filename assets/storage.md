@@ -44,8 +44,7 @@
 
 3. 打开云音乐 UWP，参照下图将下载路径设置为<br />
    `%USERPROFILE%\AppData\Local\Packages\cloudmusic.uwp_6p888gkwt396e\LocalState\download\music`
-
-   ![设置路径示意图](setpath.jpg)
+   <img src="setpath.jpg" width="210px" alt="设置路径示意图">
 
 4. 重新登录后测试是否可以正常下载音乐。<br />
    如果可以，那么请不要再改动程序设置中的下载路径以免失效。<br />
