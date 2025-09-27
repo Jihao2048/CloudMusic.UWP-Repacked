@@ -40,10 +40,10 @@
 1. 下载 [路径创建工具](../../../raw/main/tools/创建内部下载路径.vbs)
 
 2. 双击运行`创建内部下载路径.vbs`<br />
-   如果提示权限不足，请关闭云音乐软件或尝试以管理员身份再次运行此脚本。
+   如果提示权限不足，请关闭云音乐软件后再次运行此脚本（通常不需要管理员权限）。
 
 3. 打开云音乐 UWP，参照下图将下载路径设置为<br />
-   `%USERPROFILE%\AppData\Local\Packages\cloudmusic.uwp_6p888gkwt396e\LocalState\download\music`
+   `%USERPROFILE%\AppData\Local\Packages\1F8B0F94.122165AE053F_yc15719j0dst8\LocalState\download\music`
 
    <img src="setpath.jpg" width="600px" alt="设置路径示意图">
 
